@@ -1,2 +1,4 @@
-# Cheffamo
-Cheffamo helps you and your friends plan activities with ease!
+# .github
+This repository contains:
+* issue templates
+* org readme
