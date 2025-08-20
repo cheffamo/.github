@@ -1,3 +1,7 @@
+---
+name: Bug
+about: Bug template
+---
 ### DESCRIPTION:
 
 ### REPRO STEPS:
